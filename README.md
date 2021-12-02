@@ -11,6 +11,7 @@ worshop 2 pratice
 
 ## social media
 
+![sm](https://media0.giphy.com/media/atZII8NmbPGw0/giphy.gif)
 **google**
 
 *youtube*
