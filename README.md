@@ -1,15 +1,13 @@
 # githubworkshop2
 worshop 2 pratice 
 
-#tom
+# tom
 
+## jerry
 
-##jerry
+### monkey
 
-
-###monkey
-
-##social media
+## social media
 
 **google**
 
