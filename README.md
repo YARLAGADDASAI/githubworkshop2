@@ -7,6 +7,8 @@ worshop 2 pratice
 
 ### monkey
 
+![friends forever](https://c.tenor.com/E7MGaYKzyo4AAAAC/chipstop-tom-and-jerry.gif)
+
 ## social media
 
 **google**
